@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 
 function criaCartao(categoria, pergunta, resposta) {
         let container = document.getElementById('container')
@@ -25,4 +25,3 @@ function criaCartao(categoria, pergunta, resposta) {
 cartao.addEventListener('click', viraCartao)
 container.appendChild(cartao)
 }
->>>>>>> d02fd8a5481a343ff922a130a8d0746036d7a4a0
