@@ -1,7 +1,7 @@
 criaCartao(
     'Programação',
     'O que é uma linguagem de computador?',
-    'Uma linguagem usda para criar programas de ccomputador'
+    'Uma linguagem usada para criar programas de computador'
 )
 
 criaCartao(
