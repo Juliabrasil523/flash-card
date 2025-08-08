@@ -84,8 +84,8 @@ background-color: rdba(0, 244, 191, 0.2);
 }
 
 footer {
-background-color: black;
-color: white;
+background-color: rgb(80, 9, 143);
+color: rgb(0, 0, 0);
 bottom:0;
 position:fixed;
 width:100%;
