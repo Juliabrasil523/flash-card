@@ -1,7 +1,7 @@
 criaCartao(
     'Programação',
-    'O que é uma linguagem de computador?',
-    'Uma linguagem usada para criar programas de computador'
+    'Quais são algumas linguagens de programação populares?',
+    'Python, Java, JavaScript, C++, C#, entre outras'
 )
 
 criaCartao(
