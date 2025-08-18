@@ -1,11 +1,11 @@
 :root {
 --text-color: #fbf6ff;
---card-front-color: #cd6de1ff;
---card-back-color: #78107d;
+--card-front-color: rgb(227, 18, 78);
+--card-back-color: #98143e;
 }
 
 body {
-background: url('um-fundo-roxo-e-rosa-com-uma-cor-roxa-e-rosa_613001-11577.avif');
+background: url('photo-1567360425618-1594206637d2.avif');
 font-family: Bai Jamjuree;
 } 
 
