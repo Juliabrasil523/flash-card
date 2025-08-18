@@ -101,7 +101,7 @@ margin-top: 0.5rem;
 @media (max-width: 560px) {
 
     body {
-        background: url ('photo-1489189642444-0709966aec44.avif');
+        background: url('photo-1489189642444-0709966aec44.avif');
     }
     .cartao {
         flex: 1 0 calc(100% - 1rem);
